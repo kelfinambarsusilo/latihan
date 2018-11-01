@@ -1,6 +1,6 @@
 
 namapgw = input("Nama Pegawai :")
-gapok = float(input("Gaji Pokok :"))
+gapok = float(input("Gaji Pegawai :"))
 jmlkrj = float(input("Jam Kerja :"))
 
 gator = gapok * jmlkrj
